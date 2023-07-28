@@ -433,19 +433,19 @@ public:
             case 2:
                 effectColorProjectorLED(fLEDOption1);
                 break; 
-            case 3:
+            case 7:
                 effectDimPulse(fLEDOption1, fLEDOption2);
                 break;
             case 4:
                 effectCycle(fLEDOption1);
                 break;
-            case 5:
+            case 15:
                 setColor(fLEDOption1);
                 break;
-            case 6:
+            case 5:
                 effectRainbow();
                 break;
-            case 7:
+            case 14:
                 effectShortCircuit(fLEDOption1);
                 break; 
             case 96:
